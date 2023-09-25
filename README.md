@@ -1,4 +1,4 @@
-INI ADALAH KODE 
+INI ADALAH KODE KONVERSI DUIT
 
 ```
     nama = input ("Masukkan Nama : ")
@@ -37,10 +37,17 @@ INI ADALAH KODE
     mata_uang_tujuan = input("Masukkan mata uang yang dituju: ")
     jumlah_mata_uang_tujuan = menghitung_nilai_tukar_duit(jumlah_rupiah, mata_uang_tujuan)
     print("CMIIW")
-    print("Nilai {} Rupiah ke {} adalah: {} {}".format(jumlah_rupiah, mata_uang_tujuan, jumlah_mata_uang_tujuan, mata_uang_tujuan)
-    
-)
+    print("Nilai {} Rupiah ke {} adalah: {} {}".format(jumlah_rupiah, mata_uang_tujuan, jumlah_mata_uang_tujuan, mata_uang_tujuan))
+
 ```
+![1](https://github.com/Nuno-Hadianto/POSTEST-1-NIM-GANJIL/assets/63713816/d320e440-9670-4834-921d-7e1585501be1)
+![2](https://github.com/Nuno-Hadianto/POSTEST-1-NIM-GANJIL/assets/63713816/dffdb1be-d940-4142-ac67-fa67e8f1adce)
+![3](https://github.com/Nuno-Hadianto/POSTEST-1-NIM-GANJIL/assets/63713816/59c8f067-bb7c-4640-acf0-616d9b997680)
+![4](https://github.com/Nuno-Hadianto/POSTEST-1-NIM-GANJIL/assets/63713816/f4fd0b74-b048-4268-9718-11d6599147ed)
+
+
+
+
 
 ** FLOWCHART **
 
