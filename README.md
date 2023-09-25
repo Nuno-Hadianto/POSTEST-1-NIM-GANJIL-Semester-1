@@ -52,3 +52,7 @@ INI ADALAH KODE KONVERSI DUIT
 ** FLOWCHART **
 
 ![Flowchart post tes 1 drawio](https://github.com/Nuno-Hadianto/POSTEST-1-NIM-GANJIL/assets/63713816/4ae2e158-383a-48b7-b1d4-11042f01e677)
+
+** PENJELASAN OUTPUT **
+
+Flowchart dimulai dengan input dari nama, nim, tempat tanggal lahir, asal daerah, asal sekolah, dan motto hidup. Setelah semua data dimasukkan, program mencetak semua data tersebut. Selanjutnya, program meminta input jumlah rupiah yang ingin dikonversikan ke mata uang tujuan. kemudian memeriksa apakah mata uang tujuan valid atau tidak valid. Jika tidak valid, akan menimbulkan ValueError(error karena typo). Jika mata uang tujuan valid, program menghitung nilai tukar dan mencetak hasil konversinya. flowchart berakhir setelah mencetak hasil konversi.
