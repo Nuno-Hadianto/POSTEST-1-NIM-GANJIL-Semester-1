@@ -45,9 +45,9 @@ INI ADALAH KODE KONVERSI DUIT
 ![3](https://github.com/Nuno-Hadianto/POSTEST-1-NIM-GANJIL/assets/63713816/59c8f067-bb7c-4640-acf0-616d9b997680)
 ![4](https://github.com/Nuno-Hadianto/POSTEST-1-NIM-GANJIL/assets/63713816/f4fd0b74-b048-4268-9718-11d6599147ed)
 
+** PENJELASAN KODE **
 
-
-
+fungsi menghitung_nilai_tukar_duit() menerima dua argumen: jumlah_rupiah yang ingin dikonversi dan mata_uang_tujuan. lalu memeriksa apakah mata uang tujuan didukung. Jika tidak, fungsi ini akan mencetak pesan error. Jika mata uang tujuan didukung, fungsi ini akan menghitung nilai_tukar berdasarkan kode mata uang yang didukung oleh kodingan di atas. fungsi ini kemudian akan menghitung jumlah_mata_uang_tujuan yang setara dengan jumlah_rupiah yang diberikan. fungsi ini akan mengembalikan jumlah_mata_uang_tujuan dalam bentuk float dikarenakan jumlah_rupiah. fungsi _name_ meminta input dari pengguna untuk jumlah_rupiah dan mata_uang_tujuan. habistu fungsi ini kemudian akan memanggil fungsi menghitung_nilai_tukar_duit() untuk menghitung nilai tukar lewat fungsi jumlah_mata_uang_tujuan. fungsi ini akan mencetak hasil konversi. CMIIW
 
 ** FLOWCHART **
 
