@@ -1,3 +1,6 @@
+INI ADALAH KODE 
+
+```
     nama = input ("Masukkan Nama : ")
     nim  = input("Masukkan Nim :")
     tempat_tanggal_lahir = input("Masukkan Tempat, Tanggal, Lahir :")
@@ -37,3 +40,8 @@
     print("Nilai {} Rupiah ke {} adalah: {} {}".format(jumlah_rupiah, mata_uang_tujuan, jumlah_mata_uang_tujuan, mata_uang_tujuan)
     
 )
+```
+
+** FLOWCHART **
+
+![Flowchart post tes 1 drawio](https://github.com/Nuno-Hadianto/POSTEST-1-NIM-GANJIL/assets/63713816/4ae2e158-383a-48b7-b1d4-11042f01e677)
